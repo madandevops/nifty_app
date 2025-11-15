@@ -2,3 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
+streamlit
+yfinance
+statsmodels
+plotly
